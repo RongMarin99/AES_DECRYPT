@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Lock, Unlock, Copy, Check, AlertCircle, ShieldCheck } from 'lucide-react';
 
-const DEFAULT_AES_KEY = "1uNgm/8Z8BcSxdMRi29VwjVExZMPQfp4HwRbfsqjYXY=";
+const DEFAULT_AES_KEY = "";
 const IV_SIZE = 12;
 const TAG_SIZE = 16;
 
