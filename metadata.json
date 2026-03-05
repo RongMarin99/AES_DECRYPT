@@ -1,0 +1,5 @@
+{
+  "name": "AES Decryptor",
+  "description": "A simple utility to decrypt data using AES-GCM with a predefined key.",
+  "requestFramePermissions": []
+}
